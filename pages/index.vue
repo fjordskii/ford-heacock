@@ -4,6 +4,10 @@
       rel="stylesheet"
       href="https://use.fontawesome.com/releases/v5.9.0/css/all.css"
     />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Merriweather:wght@300;700&family=Source+Sans+Pro:wght@300&display=swap"
+      rel="stylesheet"
+    />
     <div>
       <h1 class="title">Ford Heacock</h1>
       <div class="aboutMe">
@@ -13,8 +17,12 @@
           web devs. <br /><br />
           Currently, I'm working with NASA through MRI 🚀
 
-          <br /><br />I also love traveling, photography, and all things
-          outdoors!</span
+          <br /><br />I also love traveling,
+          <u
+            ><a href="https://fordheacock.myportfolio.com/" target="_blank"
+              >photography</a
+            ></u
+          >, and all things outdoors!</span
         >
       </div>
       <div id="contact-info">
@@ -89,8 +97,15 @@ export default {}
 </script>
 
 <style>
+a {
+  color: inherit; /* blue colors for links too */
+  text-decoration: inherit; /* no underline */
+}
+
 .aboutMe {
-  max-width: 300px;
+  font-family: 'Source Sans Pro', sans-serif;
+  text-align: left;
+  max-width: 325px;
   margin: 0 auto;
   color: lightgrey;
 }
@@ -105,8 +120,7 @@ export default {}
 }
 
 .title {
-  font-family: 'Quicksand', 'Source Sans Pro', -apple-system, BlinkMacSystemFont,
-    'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+  font-family: 'Merriweather', serif;
   display: block;
   font-weight: 300;
   font-size: 50px;
