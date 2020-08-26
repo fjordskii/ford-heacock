@@ -27,10 +27,7 @@
       </div>
       <div id="contact-info">
         <div class="links">
-          <a
-            href="https://www.linkedin.com/in/ford-heacock-22a78620/"
-            target="_blank"
-          >
+          <a href="https://www.linkedin.com/in/ford-heacock" target="_blank">
             <div>
               <span></span>
               <span></span>
