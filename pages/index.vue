@@ -13,8 +13,8 @@
       <div class="aboutMe">
         <span
           >Hello! I'm Ford. I'm a software developer and engineering manager
-          with a passion for teaching others and helping the next generation of
-          web devs. <br /><br />
+          with a passion for teaching and helping the next generation of
+          software engineers. <br /><br />
           Currently, I'm working with NASA through MRI 🚀
 
           <br /><br />I also love traveling,
