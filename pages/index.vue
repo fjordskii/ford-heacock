@@ -1,13 +1,5 @@
 <template>
   <div class="container">
-    <link
-      rel="stylesheet"
-      href="https://use.fontawesome.com/releases/v5.9.0/css/all.css"
-    />
-    <link
-      href="https://fonts.googleapis.com/css2?family=Merriweather:wght@300;700&family=Source+Sans+Pro:wght@300&display=swap"
-      rel="stylesheet"
-    />
     <div>
       <h1 class="title">Ford Heacock</h1>
       <div class="aboutMe">
@@ -23,6 +15,14 @@
               >photography</a
             ></u
           >, and all things outdoors!</span
+        >
+
+        <br />
+        <br />
+
+        <i
+          >** Currently available for free lance and consulting projects! Feel
+          free to reach out to me through any of the below. **</i
         >
       </div>
       <div id="contact-info">

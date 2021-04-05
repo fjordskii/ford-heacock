@@ -24,6 +24,17 @@ export default {
         content: process.env.npm_package_description || '',
       },
     ],
+    link: [
+      {
+        rel: 'stylesheet',
+        href:
+          'https://fonts.googleapis.com/css2?family=Merriweather:wght@300;700&family=Source+Sans+Pro:wght@300&display=swap',
+      },
+      {
+        rel: 'stylesheet',
+        href: 'https://use.fontawesome.com/releases/v5.9.0/css/all.css',
+      },
+    ],
   },
   /*
    ** Global CSS
